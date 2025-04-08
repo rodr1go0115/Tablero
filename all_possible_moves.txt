@@ -1,0 +1,32 @@
+Todos los movimientos posibles:
+
+Jugador P1:
+Desde 1 con D -> 5
+Desde 1 con DL -> None
+Desde 1 con L -> None
+Desde 1 con R -> 2
+Desde 2 con D -> 6
+Desde 2 con DL -> 5
+Desde 2 con DR -> 7
+Desde 2 con L -> 1
+Desde 2 con R -> 3
+
+Jugador P2:
+Desde 4 con D -> 8
+Desde 4 con DL -> 7
+Desde 4 con DR -> None
+Desde 4 con L -> 3
+Desde 4 con R -> None
+Desde 4 con U -> None
+Desde 4 con UL -> None
+Desde 4 con UR -> None
+Desde 7 con D -> 11
+Desde 7 con DL -> 10
+Desde 7 con L -> 6
+Desde 7 con U -> 3
+Desde 7 con UL -> 2
+Desde 12 con L -> 11
+Desde 12 con R -> None
+Desde 12 con U -> 8
+Desde 12 con UL -> 7
+Desde 12 con UR -> None

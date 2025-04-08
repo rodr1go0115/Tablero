@@ -1,0 +1,7 @@
+Movimientos ganadores:
+
+Jugador P1:
+No se encontraron movimientos ganadores.
+
+Jugador P2:
+No se encontraron movimientos ganadores.

@@ -1,0 +1,10 @@
+Historial de movimientos:
+
+Jugador P1:
+Movimiento 1: Desde 1 con R -> 2
+Movimiento 2: Desde 2 con R -> 3
+
+Jugador P2:
+Movimiento 1: Desde 4 con DL -> 7
+Movimiento 2: Desde 7 con DR -> 12
+Movimiento 3: Desde 12 con DL -> 15
